@@ -7,7 +7,3 @@ AI-powered inventory forecasting using Facebook Prophet.
 - `GET /` - Health check
 - `GET /health` - Detailed health
 - `POST /forecast` - Generate forecast
-
-## Deploy
-
-Push to GitHub, deploy on Render.com.
