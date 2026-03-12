@@ -1,2 +1,13 @@
-# Smartstocklyai
-AI stock prediction API using Facebook Prophet
+# StockSense Prophet API
+
+AI-powered inventory forecasting using Facebook Prophet.
+
+## Endpoints
+
+- `GET /` - Health check
+- `GET /health` - Detailed health
+- `POST /forecast` - Generate forecast
+
+## Deploy
+
+Push to GitHub, deploy on Render.com.
